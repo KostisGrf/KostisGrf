@@ -12,15 +12,15 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" height="10" /> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img  height="45" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react">  <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs"> 
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" height="10" /> <img src="https://img.icons8.com/color/48/000000/css3.png" height="10"/> <img src="https://img.icons8.com/color/48/000000/sass.png" height="10"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" height="10" />  <img  src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" height="10" >  <img height="10" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs"> 
 
-<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter"> <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart">
+<img height="10" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter"> <img height="10" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart">
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img  height="45" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" height="10" /> <img src="https://img.icons8.com/officel/48/000000/php-logo.png" height="10"/> <img  height="10" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="10" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/> <img src="https://img.icons8.com/color/48/000000/firebase.png" height="10"/>
 
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img src="https://img.icons8.com/color/48/000000/npm.png" height="10"/>
 
 <br>
 
