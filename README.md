@@ -49,6 +49,6 @@
 
 [![kgratsos](https://img.icons8.com/fluency/48/000000/linkedin.png "kgratsos")](https://www.linkedin.com/in/kgratsos/)<a href="mailto:kostisgratsos@hotmail.gr" target="blank"><img  src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="e-mail" height="50"  /></a>
 
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" alt="Chrome Dino" style="height:150px;">
 
 
