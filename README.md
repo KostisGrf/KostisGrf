@@ -18,8 +18,8 @@
 
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="30"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="height:30px;">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="height:30px;"> 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="30"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" height="30">
