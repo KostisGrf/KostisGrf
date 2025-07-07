@@ -30,7 +30,7 @@
 
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="height:40px;"> <img src="https://img.icons8.com/color/48/000000/firebase.png" style="height:40px;">
 
-<img src="https://img.icons8.com/color/48/000000/npm.png" style="height:40px;">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" alt="Chrome Dino" style="width: 100%; max-width: 600px;">
 
 <br>
 
