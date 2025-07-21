@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="height:40px;"> <img src="https://img.icons8.com/color/48/000000/css3.png" style="height:40px;"> <img src="https://img.icons8.com/color/48/000000/sass.png" style="height:40px;"/> 
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="height:40px;"> <img src="https://img.icons8.com/color/48/000000/css3.png" style="height:40px;"> <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" style="height:40px;"/>  <img src="https://img.icons8.com/color/48/000000/sass.png" style="height:40px;"/> 
 
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" style="height:40px;"> <img src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" style="height:40px;"> <img src="https://img.icons8.com/?size=100&id=6SWtW8hxZWSo&format=png&color=000000" style="height:40px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="height:40px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="height:40px;"> 
 
@@ -28,7 +28,7 @@
  
 
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="height:40px;"> <img src="https://img.icons8.com/color/48/000000/firebase.png" style="height:40px;">
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="height:40px;"> <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" style="height:40px;"> <img src="https://img.icons8.com/color/48/000000/firebase.png" style="height:40px;">
 
 
 
